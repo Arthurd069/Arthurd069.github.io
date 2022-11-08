@@ -1,11 +1,14 @@
 ---
 layout:       post
 title:        "Man must explore, and this is exploration at its greatest"
+subtitle:     "This is example"
 author:       "Arthurd"
-header-style: text
+header-img:   "img/contact-bg.jpg"
+date:       2022-10-27 12:00:00
 catalog:      true
 tags:
     - 收藏
+    - 喜欢
 ---
 
 > Problems look mighty small from 150 miles up
