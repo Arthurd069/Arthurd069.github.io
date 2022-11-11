@@ -1,7 +1,7 @@
 /* ===========================================================
  * sw.js
  * ===========================================================
- * Copyright 2016 @huxpro
+ * Copyright 2016 @Arthurd
  * Licensed under Apache 2.0
  * service worker scripting
  * ========================================================== */
@@ -20,7 +20,7 @@ const PRECACHE_LIST = [
   "./js/arthurd-blog.min.js",
   "./js/snackbar.js",
   "./img/icon_wechat.png",
-  "./img/avatar-hux.jpg",
+  "./img/header.jpg",
   "./img/home-bg.jpg",
   "./img/404-bg.jpg",
   "./css/hux-blog.min.css",
