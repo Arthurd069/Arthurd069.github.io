@@ -1,14 +1,14 @@
 {
-    "name": "hux-blog",
-    "title": "Hux Blog",
-    "author": "Hux <huxpro@gmail.com>",
+    "name": "arthurd-blog",
+    "title": "Arthurd Blog",
+    "author": "Arthurd <hejian_work@163.com>",
     "version": "1.8.2",
-    "homepage": "http://huxpro.github.io",
+    "homepage": "http://arthurd069.github.io",
     "repository": {
         "type": "git",
-        "url": "https://github.com/Huxpro/huxpro.github.io"
+        "url": "https://github.com/Arthurd069/Arthurd069.github.io"
     },
-    "bugs": "https://github.com/Huxpro/huxpro.github.io/issues",
+    "bugs": "https://github.com/Arthurd069/Arthurd069.github.io/issues",
     "devDependencies": {
         "grunt": ">=1.3.0",
         "grunt-banner": "~0.2.3",
